@@ -21,7 +21,7 @@
 
 ## Actividad 4
 
-+ Iniciamos debian en docker con el comando ***docker run -it -w***. Cosa que nos permite descargar el archivo (si no lo tenemos) poder ejecutarlo (run) y poder interactuar con el (-it)
++ Iniciamos debian en docker con el comando ***docker run -it -w***. Cosa que nos permite descargar el archivo (si no lo tenemos) poder ejecutarlo (run) y poder interactuar con él (-it)
 + Además utilizamos el comando ls para listar
 
 ![5](https://user-images.githubusercontent.com/91874727/166214209-50de3b93-2eaa-4588-a1a2-6f6be1c59e2d.png)
