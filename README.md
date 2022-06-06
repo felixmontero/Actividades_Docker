@@ -19,7 +19,7 @@
 
 + **Ubuntu** es el nombre de la imagen (en este caso estamos creando un contenedor con ubuntu instalado.
 
-+ -t: es la abreviatura de -tty y sirve para habilitar un terminal tty para el contenedor.
++ **-t:** es la abreviatura de -tty y sirve para habilitar un terminal tty para el contenedor.
 
 + Por otro lado al crear el contenedor entramos como (admin) root. Es el usuario con más privilegios.
 
@@ -41,7 +41,7 @@
 + Además utilizamos el comando ls para listar
 
 ![5](https://user-images.githubusercontent.com/91874727/166214209-50de3b93-2eaa-4588-a1a2-6f6be1c59e2d.png)
-+Como hemos visto en la anterior imagen nos muestra todo lo visto anteriormente en un solo comando ademas del comando w
++ Como hemos visto en la anterior imagen nos muestra todo lo visto anteriormente en un solo comando ademas del comando w
 ++ Mostrar el contenido de una carpeta establecida con el parámetro -w
 + Para saber que contenedores tenemos activos en docker usamos el comando ***docker ps***
 
